@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "836270175506",
+    "project_id": "payflow-8facd",
+    "storage_bucket": "payflow-8facd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836270175506:android:1d62ba71d0f9679811afcb",
+        "android_client_info": {
+          "package_name": "com.example.nwl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836270175506-84n2vvih111jjf3v42d6ejtgps9qg4i6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nwl",
+            "certificate_hash": "4eaa0ae983020f2d7b78eae869c4665545b54588"
+          }
+        },
+        {
+          "client_id": "836270175506-4inhuacfmqj0b5slar4od4n242e2qsof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbg00ZU2Ztt5cYEULtsliqT9QvmTNHbv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836270175506-4inhuacfmqj0b5slar4od4n242e2qsof.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "836270175506-77pv41kto5dfuvmirp0pf6ntd6clojah.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nwl"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
